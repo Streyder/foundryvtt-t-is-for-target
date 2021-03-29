@@ -2,9 +2,9 @@
   "name": "t-is-for-target",
   "title": "T is for Target - Streyder Private Release",
   "description": "Target things by hovering and pressing the T key.",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.7.2",
+  "compatibleCoreVersion": "0.7.9",
   "author": "Rob Blanckaert <foundry@basicer.com>",
   "dependencies": [
 
